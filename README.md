@@ -51,22 +51,22 @@ The R code for creating the above plots is available in the /eva-giannatou-BAII-
 
 Instructions for running the code:
 
-	*Step 1:* go to http://stat-computing.org/dataexpo/2009/the-data.html
+	Step 1: go to http://stat-computing.org/dataexpo/2009/the-data.html
 
 	and download the flight data from 2004 to 2007
 
 	we need the following files
 
-	1. 2004.csv
+		1. 2004.csv
 
-	2. 2005.csv
+		2. 2005.csv
 
-	3. 2006.cav
+		3. 2006.cav
 
-	4. 2007.csv
+		4. 2007.csv
 
-	*Step 2:* place the dataset (files from step 1) into the eva-giannatou-BAII-assignment1//dataset folder
+	Step 2: place the dataset (files from step 1) into the eva-giannatou-BAII-assignment1//dataset folder
 	
-	*Step 3:* run the code found in the eva-giannatou-BAII-assignment1/data-tranformation folder 
+	Step 3: run the code found in the eva-giannatou-BAII-assignment1/data-tranformation folder 
 	
-	*Step 4:* run the plot codes
+	Step 4: run the plot codes
