@@ -34,17 +34,17 @@ GUIDELINES
 7. Common plots between the  different submissions will be downgraded, try to be innovative and creative
 
 # Answers
-![alt text](https://github.com/evagian/US-flight-data-visualization-R-/tree/master/eva-giannatou-BAII-assignment1/selected-plots/1.jpg)
+![alt text](https://github.com/evagian/US-flight-data-visualization-R-/blob/master/eva-giannatou-BAII-assignment1/selected-plots/1.JPG)
 
-![alt text](https://github.com/evagian/US-flight-data-visualization-R-/tree/master/eva-giannatou-BAII-assignment1/selected-plots/2.jpg)
+![alt text](https://github.com/evagian/US-flight-data-visualization-R-/blob/master/eva-giannatou-BAII-assignment1/selected-plots/2.JPG)
 
-![alt text](https://github.com/evagian/US-flight-data-visualization-R-/tree/master/eva-giannatou-BAII-assignment1/selected-plots/3.jpg)
+![alt text](https://github.com/evagian/US-flight-data-visualization-R-/blob/master/eva-giannatou-BAII-assignment1/selected-plots/3.JPG)
 
-![alt text](https://github.com/evagian/US-flight-data-visualization-R-/tree/master/eva-giannatou-BAII-assignment1/selected-plots/4.jpg)
+![alt text](https://github.com/evagian/US-flight-data-visualization-R-/blob/master/eva-giannatou-BAII-assignment1/selected-plots/4.JPG)
 
-![alt text](https://github.com/evagian/US-flight-data-visualization-R-/tree/master/eva-giannatou-BAII-assignment1/selected-plots/5.jpg)
+![alt text](https://github.com/evagian/US-flight-data-visualization-R-/blob/master/eva-giannatou-BAII-assignment1/selected-plots/5.JPG)
 
-![alt text](https://github.com/evagian/US-flight-data-visualization-R-/tree/master/eva-giannatou-BAII-assignment1/selected-plots/6.jpg)
+![alt text](https://github.com/evagian/US-flight-data-visualization-R-/blob/master/eva-giannatou-BAII-assignment1/selected-plots/6.JPG)
 
 # Code
 All R code for creating the above plots is available in the /eva-giannatou-BAII-assignment1/ directory
