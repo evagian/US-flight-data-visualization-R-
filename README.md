@@ -47,4 +47,4 @@ GUIDELINES
 ![alt text](https://github.com/evagian/US-flight-data-visualization-R-/blob/master/eva-giannatou-BAII-assignment1/selected-plots/6.JPG)
 
 # Code
-All R code for creating the above plots is available in the /eva-giannatou-BAII-assignment1/ directory
+The R code for creating the above plots is available in the /eva-giannatou-BAII-assignment1/ directory
